@@ -19,7 +19,7 @@ As Ghost is and always will be in development, Phantom will evolve with it. As n
 
 ## Installation
 
-1. [Download the theme](https://github.com/haydenbleasel/phantom/archive/master.zip) from GitHub.
+1. [Download the theme](https://github.com/brentpayne/phantom/archive/master.zip) from GitHub.
 2. Upload the theme as described in the [Ghost Documentation](http://docs.ghost.org/usage/settings/).
 
 Looking for more instructions? Sorry, it's just that easy.
